@@ -1,0 +1,4 @@
+name: discord-rewards
+version: 1.0.0
+main: xyz.vapezyy.discordrewards.DiscordRewardsPlugin
+api-version: "1.21"
